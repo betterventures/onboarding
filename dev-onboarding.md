@@ -30,7 +30,7 @@ Our processes also strive for transparency, communication, and collaboration. Th
   - Pre-IPM: PM and the client will meet once weekly, as-needed, to determine the content of next week's IPM. We'll take into account any comments or questions you have during this meeting, so feel free to make story comments or reach out to @frank directly before the meeting. This is largely dependent on the experience of the client, and our desire to smooth out the planning process so that IPM can be as efficient as possible. 1hr, weekly (usually Fridays).
 - Slack Practices:
   - Turn notifications on.
-  - Respond when @'ed, even if just to give a time estimate. "30m" is fine as a response"
+  - Respond when @'ed, even if just to give a time estimate. "30m" is fine as a response.
   - Feel free to ignore chat that's not @ you.
 - Slack User Guidelines:
   - **CREDO**: Everyone is in a zone, so give them a second if they don't respond immediately. Immediate response drains focus and creates a culture of reactivity.
